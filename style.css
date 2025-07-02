@@ -25,6 +25,9 @@ main {
     padding: 20px;
     line-height: 150%;
 }
+
+.main ol {
+    font-family: verdana;
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
