@@ -24,11 +24,9 @@ nav a {
 main {
     padding: 20px;
     line-height: 150%;
+    font-family: Verdana, sans-serif;
 }
 
-.main li {
-   font-family: Verdana, sans-serif;
-}
 
 .gallery {
     display: grid;
