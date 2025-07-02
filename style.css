@@ -26,8 +26,8 @@ main {
     line-height: 150%;
 }
 
-.main ol {
-    font-family: verdana;
+.main li {
+   font-family: Verdana, sans-serif;
 }
 
 .gallery {
